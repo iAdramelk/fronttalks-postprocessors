@@ -10,11 +10,11 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
-    # url:  http://example.com/
+    name: Алексей Иванов
+    # url:  https://twitter.com/iadramelk
     company:
-        name: Famous Inc.
-        # url:  http://example.com/
+        name: JetStyle
+        # url:  http://www.jetstyle.ru/
 
 fork_url: https://github.com/shower/shower
 progress: true
