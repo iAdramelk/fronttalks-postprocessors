@@ -6,7 +6,7 @@ default_lang: ru
 progress: false
 
 style: |
-    .slide::after {
+    .slide::after, .list .badge {
         display: none;
     }
     .slide.with-2-sides pre,
