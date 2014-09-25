@@ -383,7 +383,7 @@ Ruby-программисты смотрят на css-код
     <code>}</code>
 </pre>
 <pre>
-    <code><mark>a::after, <mark class="important">a:after</mark> </mark>{
+    <code><mark>a::after<mark class="important">, a:after</mark> </mark>{
 </code>
     <code>    <mark>content</mark>: "→"</code>
     <code>}</code>
